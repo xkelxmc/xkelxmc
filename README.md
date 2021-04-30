@@ -4,7 +4,7 @@
 
 ### 🔗 Contacts
 
-- [linkedin](www.linkedin.com/in/xkelxmc)
+- [linkedin](https://www.linkedin.com/in/xkelxmc)
 - [telegram](https://t.me/xkelxmc)
 
 ### 📈 GitHub Stats
