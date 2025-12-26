@@ -17,7 +17,7 @@ complex problems and recently started contributing to open source.
 
 - **[eden-tanstack-query](https://github.com/xkelxmc/eden-tanstack-query)** — Type-safe TanStack Query integration for Elysia Eden. Like @trpc/react-query, but for Elysia.
 
-  ![GitHub stars](https://img.shields.io/github/stars/xkelxmc/eden-tanstack-query?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/xkelxmc/eden-tanstack-query?style=flat)
+  [![GitHub stars](https://img.shields.io/github/stars/xkelxmc/eden-tanstack-query?style=flat)](https://github.com/xkelxmc/eden-tanstack-query) [![npm version](https://img.shields.io/npm/v/eden-tanstack-react-query?style=flat)](https://www.npmjs.com/package/eden-tanstack-react-query) [![npm downloads](https://img.shields.io/npm/dm/eden-tanstack-react-query?style=flat)](https://www.npmjs.com/package/eden-tanstack-react-query) [![codecov](https://img.shields.io/codecov/c/github/xkelxmc/eden-tanstack-query?style=flat)](https://codecov.io/gh/xkelxmc/eden-tanstack-query) [![Tests](https://img.shields.io/github/actions/workflow/status/xkelxmc/eden-tanstack-query/test.yml?style=flat&label=tests)](https://github.com/xkelxmc/eden-tanstack-query/actions/workflows/test.yml)
 
 ## 🔗 Contacts
 
