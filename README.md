@@ -1,5 +1,9 @@
 # 👨🏻‍💻 Welcome
 
+[![GitHub followers](https://img.shields.io/github/followers/xkelxmc?style=social)](https://github.com/xkelxmc)
+[![GitHub stars](https://img.shields.io/github/stars/xkelxmc?style=social)](https://github.com/xkelxmc?tab=stars)
+[![X Follow](https://img.shields.io/twitter/follow/impkelm?style=social)](https://x.com/impkelm)
+
 ## 😄 About me
 
 Fullstack developer with 11+ years of experience, originally from Siberia.
@@ -13,9 +17,12 @@ complex problems and recently started contributing to open source.
 
 - **[eden-tanstack-query](https://github.com/xkelxmc/eden-tanstack-query)** — Type-safe TanStack Query integration for Elysia Eden. Like @trpc/react-query, but for Elysia.
 
+  ![GitHub stars](https://img.shields.io/github/stars/xkelxmc/eden-tanstack-query?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/xkelxmc/eden-tanstack-query?style=flat)
+
 ## 🔗 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/xkelxmc)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/impkelm)
 
 ## 💻 Tech Stack
 
