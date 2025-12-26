@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📦 Open Source
+
+- ### [eden-tanstack-query](https://github.com/xkelxmc/eden-tanstack-query)
+  Type-safe TanStack Query integration for Elysia Eden. Like @trpc/react-query, but for Elysia.
+
 ### 🔗 Contacts
 
 - [linkedin](https://www.linkedin.com/in/xkelxmc)
