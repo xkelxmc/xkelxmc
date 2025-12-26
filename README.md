@@ -19,7 +19,7 @@ complex problems and recently started contributing to open source.
 
 ## 💻 Tech Stack
 
-### 📝 Languages
+<kbd>Languages</kbd>
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -28,27 +28,27 @@ complex problems and recently started contributing to open source.
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-### 🎨 Frontend
+<kbd>Frontend</kbd>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
-### 📱 Mobile & Desktop
+<kbd>Mobile & Desktop</kbd>
 
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
 [![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)](https://www.electronjs.org/)
 
-### 🔄 State & Data
+<kbd>State & Data</kbd>
 
 [![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=flat&logo=react-query&logoColor=white)](https://tanstack.com/)
 [![Reatom](https://img.shields.io/badge/Reatom-3F82FC?style=flat&logoColor=white)](https://v1000.reatom.dev/)
 [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
 [![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)](https://zod.dev/)
 
-### ⚙️ Backend
+<kbd>Backend</kbd>
 
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Elysia](https://img.shields.io/badge/elysia-%23000000.svg?style=flat&logo=bun&logoColor=white)](https://elysiajs.com/)
@@ -56,36 +56,36 @@ complex problems and recently started contributing to open source.
 [![BullMQ](https://img.shields.io/badge/BullMQ-%23E34F26.svg?style=flat&logo=redis&logoColor=white)](https://bullmq.io/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
 
-### 🗄️ Database
+<kbd>Database</kbd>
 
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
-### 🔐 Auth
+<kbd>Auth</kbd>
 
 [![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=flat&logoColor=white)](https://www.better-auth.com/)
 [![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)](https://jwt.io/)
 
-### ⚡ Runtime & Build
+<kbd>Runtime & Build</kbd>
 
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)](https://vite.dev/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-%23EF4444.svg?style=flat&logo=turborepo&logoColor=white)](https://turbo.build/)
 
-### 🧪 Testing
+<kbd>Testing</kbd>
 
 [![Vitest](https://img.shields.io/badge/vitest-%23729B1B.svg?style=flat&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
 
-### ✨ Code Quality
+<kbd>Code Quality</kbd>
 
 [![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat&logo=biome&logoColor=white)](https://biomejs.dev/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)](https://eslint.org/)
 
-### 🚀 DevOps
+<kbd>DevOps</kbd>
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
@@ -94,14 +94,14 @@ complex problems and recently started contributing to open source.
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/)
 
-### 📈 Monitoring
+<kbd>Monitoring</kbd>
 
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)](https://prometheus.io/)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
 [![Axiom](https://img.shields.io/badge/Axiom-000000?style=flat&logoColor=white)](https://axiom.co/)
 
-### ⛓️ Web3
+<kbd>Web3</kbd>
 
 [![Viem](https://img.shields.io/badge/Viem-1C1C1C?style=flat&logoColor=white)](https://viem.sh/)
 [![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat&logoColor=white)](https://wagmi.sh/)
@@ -109,7 +109,7 @@ complex problems and recently started contributing to open source.
 [![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logoColor=white)](https://book.getfoundry.sh/)
 [![Arweave](https://img.shields.io/badge/Arweave-222326?style=flat&logo=arweave&logoColor=white)](https://www.arweave.org/)
 
-### 🛠️ Tools
+<kbd>Tools</kbd>
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -118,12 +118,12 @@ complex problems and recently started contributing to open source.
 [![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-### 🎬 Media
+<kbd>Media</kbd>
 
 [![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat&logo=sharp&logoColor=white)](https://sharp.pixelplumbing.com/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 
-### 🤖 AI
+<kbd>AI</kbd>
 
 [![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=flat&logo=vercel&logoColor=white)](https://ai-sdk.dev/)
 
