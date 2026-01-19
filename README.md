@@ -6,7 +6,7 @@
 
 ## 😄 About me
 
-Fullstack developer with 11+ years of experience, originally from Siberia.
+Fullstack developer with 12+ years of experience, originally from Siberia.
 I specialize in TypeScript ecosystem — from React and Next.js on the frontend
 to NestJS, tRPC, and Elysia on the backend. Also exploring Web3 and React Native.
 
@@ -19,6 +19,10 @@ complex problems and recently started contributing to open source.
 
   [![npm version](https://img.shields.io/npm/v/eden-tanstack-react-query?style=flat)](https://www.npmjs.com/package/eden-tanstack-react-query) [![npm downloads](https://img.shields.io/npm/dm/eden-tanstack-react-query?style=flat)](https://www.npmjs.com/package/eden-tanstack-react-query) [![codecov](https://img.shields.io/codecov/c/github/xkelxmc/eden-tanstack-query?style=flat)](https://codecov.io/gh/xkelxmc/eden-tanstack-query) [![Tests](https://img.shields.io/github/actions/workflow/status/xkelxmc/eden-tanstack-query/test.yml?style=flat&label=tests)](https://github.com/xkelxmc/eden-tanstack-query/actions/workflows/test.yml) [![GitHub stars](https://img.shields.io/github/stars/xkelxmc/eden-tanstack-query?style=social)](https://github.com/xkelxmc/eden-tanstack-query)
 
+- **[keypress-macos](https://github.com/xkelxmc/keypress-macos)** — macOS menu bar app that visualizes keyboard input with skeuomorphic 3D mechanical key aesthetics. Perfect for demos and screen sharing.
+
+  [![GitHub release](https://img.shields.io/github/v/release/xkelxmc/keypress-macos?style=flat)](https://github.com/xkelxmc/keypress-macos/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/xkelxmc/keypress-macos/total?style=flat)](https://github.com/xkelxmc/keypress-macos/releases) [![CI](https://img.shields.io/github/actions/workflow/status/xkelxmc/keypress-macos/ci.yml?style=flat&label=CI)](https://github.com/xkelxmc/keypress-macos/actions/workflows/ci.yml) [![GitHub stars](https://img.shields.io/github/stars/xkelxmc/keypress-macos?style=social)](https://github.com/xkelxmc/keypress-macos)
+
 ## 🔗 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/xkelxmc)
@@ -29,7 +33,7 @@ complex problems and recently started contributing to open source.
 <table>
 <tr><td valign="middle"><b>Languages</b></td><td valign="middle">
 
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)](https://soliditylang.org/) [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://swift.org/) [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)](https://soliditylang.org/) [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 </td></tr>
 <tr><td valign="middle"><b>Frontend</b></td><td valign="middle">
@@ -115,7 +119,7 @@ C, PHP, C#, Redux, MobX, Zustand, Vue, Express, GraphQL, Apollo, MySQL, Firebase
 
 ## 🔧 Also experienced with
 
-Swift, Java, Kotlin, Radix UI, Expo Router, Reanimated, Framer Motion, Lottie, dayjs, i18next, Axios, Recharts, OpenAI API, Anthropic API, PM2, Winston, Payload CMS, Google Analytics, Mixpanel, FCM, AWS S3, Twilio, pnpm, Testing Library, Husky, lint-staged, NextAuth, Clerk
+Java, Kotlin, Radix UI, Expo Router, Reanimated, Framer Motion, Lottie, dayjs, i18next, Axios, Recharts, OpenAI API, Anthropic API, PM2, Winston, Payload CMS, Google Analytics, Mixpanel, FCM, AWS S3, Twilio, pnpm, Testing Library, Husky, lint-staged, NextAuth, Clerk
 
 ## 📊 GitHub Stats
 
