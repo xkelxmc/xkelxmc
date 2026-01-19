@@ -21,7 +21,7 @@ complex problems and recently started contributing to open source.
 
 - **[keypress-macos](https://github.com/xkelxmc/keypress-macos)** — macOS menu bar app that visualizes keyboard input with skeuomorphic 3D mechanical key aesthetics. Perfect for demos and screen sharing.
 
-  [![GitHub release](https://img.shields.io/github/v/release/xkelxmc/keypress-macos?style=flat)](https://github.com/xkelxmc/keypress-macos/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/xkelxmc/keypress-macos/total?style=flat)](https://github.com/xkelxmc/keypress-macos/releases) [![CI](https://img.shields.io/github/actions/workflow/status/xkelxmc/keypress-macos/ci.yml?style=flat&label=CI)](https://github.com/xkelxmc/keypress-macos/actions/workflows/ci.yml) [![GitHub stars](https://img.shields.io/github/stars/xkelxmc/keypress-macos?style=social)](https://github.com/xkelxmc/keypress-macos)
+  [![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://swift.org/) [![macOS 14+](https://img.shields.io/badge/macOS-14+-blue?style=flat)](https://www.apple.com/macos/) [![GitHub stars](https://img.shields.io/github/stars/xkelxmc/keypress-macos?style=social)](https://github.com/xkelxmc/keypress-macos)
 
 ## 🔗 Contacts
 
